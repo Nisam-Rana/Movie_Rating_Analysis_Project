@@ -345,8 +345,11 @@ Movie-Rating-Analysis/
 ├── Reports/
 │   ├── Project_Report.pdf
 │   ├── Business_Insights.pdf
-│   └──Business_Recommendations.pdf
+|   └──Business_Recommendations.pdf
 
+# AUTHOR - Nisam Rana
+• Aspiring Data Analyst
+•Skills - Excel, SQL, Power BI
 
 
 <img width="451" height="695" alt="image" src="https://github.com/user-attachments/assets/7693943a-0d31-457b-b7ce-110d348ce832" />
