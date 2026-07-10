@@ -76,7 +76,7 @@ c)	Pivot Table
 d)	Pivot Chart 
 
 
-# 8.	SQL Analysis
+# 8.	SQL ANALYSIS
 SQL Queries
 •	SELECT
 •	WHERE
@@ -251,7 +251,7 @@ Interactive Features
 •	Year slicer
 •	Genre Slicer
 
-# 11.	Business Insights
+# 11.	BUSINESS INSIGHTS
 •	Thriller movie generated the highest revenue
 -	Thriller movies contributed 18k in total revenue, making it the highest performing genre
 
@@ -274,10 +274,10 @@ Interactive Features
 •	Invest more in high performing genres
 •	Promote highly rated movies 
 
-# 13.	Conclusion
+# 13.	CONCLUSION
 This project demonstrate the data analysis using Excel,SQL,Power BI.Through data cleaning, SQL query,DAX Calculation, dashboard.The analysis identified key trends in rating, revenue.
 
-# 14.	Skills Demonstrated
+# 14.	SKILLS DEMONSTRATED
 
 EXCEL	
 •	Formulas
@@ -317,6 +317,37 @@ DAX
 •	DISTINCT
 •	COUNT
 •	CALCULATE
+
+# REPOSITORY STRUCTURE
+
+Movie-Rating-Analysis/
+│
+├── README.md
+│
+├── Dataset/
+│   ├── Movie_Rating_Analysis.csv           #original dataset
+│   └──Clean_Dataset.csv
+│   
+├── Excel/
+│   ├── Formulas.xlsx
+│   ├── Conditional_Formatting.xlsx
+│   ├── Pivot_Table.xlsx
+│   └── Pivot_Chart.xlsx
+│
+├── SQL/
+│   └──SQL_Queries.sql
+│
+├── PowerBI/
+│   ├── Dasboard.pbix
+│   ├── Dashboard.pdf
+│   └── DAX_Measures.pdf 
+|
+├── Reports/
+│   ├── Project_Report.pdf
+│   ├── Business_Insights.pdf
+│   └──Business_Recommendations.pdf
+
+
 
 <img width="451" height="695" alt="image" src="https://github.com/user-attachments/assets/7693943a-0d31-457b-b7ce-110d348ce832" />
 
